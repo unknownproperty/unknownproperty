@@ -12,8 +12,8 @@
 
 #### ⚡ My Tech Stack: 
 
-#### * JavaScript 
-#### * Python (basic)
+ * JavaScript 
+ * Python (basic)
 
 
 
