@@ -14,8 +14,18 @@
 
  * JavaScript 
  * Python (basic)
+ * React 
+ * Material-UI
+ * Next JS
+ * Redux (but prefer MobX)
+ * Git, Github
+ * English B2
 
+#### 💬 You can find me here: 
 
+* [@bilord](https://t.me/bilord) (Telegram)
+* [@bilord](https://openland.com/bilord) (Openland)
+* Igorbukshev#1361 (Discord)
 
 <!--
 **bilordigor/bilordigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
