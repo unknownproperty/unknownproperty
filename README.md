@@ -1,6 +1,8 @@
-### 👋 Hi, traveler, my name is **Igor Bukshev** 
+# 👋 Hi, traveler, my name is **Igor Bukshev** 
 
 ## I'm *junior* ***Front-end developer*** from Saint-Petersburg
+
+### I've been writing code for over three years. I've been interested in Front-end for more than a year
 
 <!--
 **bilordigor/bilordigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
