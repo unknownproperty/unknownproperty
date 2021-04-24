@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, traveler, my name is **Igor Bukshev** 
+
+## I'm *junior* ***Front-end developer*** from Saint-Petersburg
 
 <!--
 **bilordigor/bilordigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
