@@ -21,6 +21,10 @@
  * Git, Github
  * English B2
 
+------------------------- 
+#### I'm open for cooperation and always do't mind working on an interesting project
+------------------------- 
+
 #### 💬 You can find me here: 
 
 * [@bilord](https://t.me/bilord) (Telegram)
