@@ -22,7 +22,7 @@
  * English B2
 
 ------------------------- 
-#### I'm open for cooperation and always do't mind working on an interesting project
+#### I'm open to cooperation and always dont mind working on an interesting project
 ------------------------- 
 
 #### 💬 You can find me here: 
