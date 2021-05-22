@@ -22,6 +22,7 @@
  * English B2
  * HTML5
  * CSS3
+ * Styled-components
 
 ------------------------- 
 #### I'm open to cooperation and always dont mind working on an interesting project
