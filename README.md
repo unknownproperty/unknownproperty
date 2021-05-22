@@ -20,6 +20,8 @@
  * Redux (but prefer MobX)
  * Git, Github
  * English B2
+ * HTML5
+ * CSS3
 
 ------------------------- 
 #### I'm open to cooperation and always dont mind working on an interesting project
