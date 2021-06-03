@@ -1,6 +1,6 @@
 # 👋 Hi, traveler, my name is **Igor Bukshev** 
 
-## I'm *junior* ***Front-end developer*** from Saint-Petersburg
+## I'm ***Front-end developer*** from Saint-Petersburg
 
 ### I've been writing code for over three years. I've been interested in Front-end for more than a year
 
