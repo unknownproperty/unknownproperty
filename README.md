@@ -10,6 +10,14 @@
 
 ------------------------- 
 
+#### 😄 My Projects: 
+
+ * [Ξ Effect](https://xieffect.vercel.app/)
+ * [SpaceX Launches](https://spacex-launches-with-pagination.vercel.app/)
+
+
+------------------------- 
+
 #### ⚡ My Tech Stack: 
 
  * JavaScript 
