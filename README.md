@@ -14,6 +14,8 @@
 
  * [Ξ Effect](https://xieffect.vercel.app/)
  * [SpaceX Launches](https://spacex-launches-with-pagination.vercel.app/)
+ * [Cards slider](https://jsfiddle.net/bilord/smd2vgny/3/)
+ * [Simple Trello](https://jsfiddle.net/bilord/7eodjqt0/2/)
 
 
 ------------------------- 
