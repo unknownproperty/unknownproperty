@@ -38,6 +38,7 @@
  * HTML5
  * CSS3
  * Styled-components
+ * Scrum/Agile
 
 ------------------------- 
 #### I'm open to cooperation and always dont mind working on an interesting project
