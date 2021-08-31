@@ -29,7 +29,7 @@
 
  * JavaScript 
  * Python (basic)
- * React 
+ * React (React Hooks)
  * Material-UI
  * Next JS
  * Redux (but prefer MobX)
