@@ -10,7 +10,7 @@
 
 ------------------------- 
 
-#### 🔭 I'm currently working on an education startup. [Ξ Effect](https://xieffect.vercel.app/) It's like courses, but with features for school and university and other cool things 
+#### 🔭 I'm currently working on an education startup. [Ξ Effect](https://appxieffect.herokuapp.com) It's like courses, but with features for school and university and other cool things 
 
 ------------------------- 
 
