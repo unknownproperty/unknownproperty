@@ -10,13 +10,13 @@
 
 ------------------------- 
 
-#### 🔭 I'm currently working on an education startup. [Ξ Effect](https://appxieffect.herokuapp.com) It's like courses, but with features for school and university and other cool things 
+#### 🔭 I'm currently working on an education startup. [Ξffect](https://xieffect.netlify.app/) It's like courses, but with features for school and university and other cool things 
 
 ------------------------- 
 
 #### 😄 My Projects: 
 
- * [Ξ Effect](https://xieffect.vercel.app/) (Education App)
+ * [Ξffect](https://xieffect.netlify.app/) (Education App)
  * [SpaceX Launches](https://spacex-launches-with-pagination.vercel.app/) (Limitless pagination)
  * [Cards slider](https://jsfiddle.net/bilord/smd2vgny/3/) (Native JS)
  * [Simple Trello](https://jsfiddle.net/bilord/7eodjqt0/2/) (Drag&Drop)
@@ -27,12 +27,12 @@
 
 #### ⚡ My Tech Stack: 
 
- * JavaScript 
+ * JavaScript / Typescript (basic)
  * Python (basic)
  * React (React Hooks)
  * Material-UI
  * Next JS
- * Redux (but prefer MobX)
+ * MobX (basic Redux)
  * Git, Github
  * English B2
  * HTML5
@@ -47,7 +47,6 @@
 #### 💬 You can find me here: 
 
 * [@bilord](https://t.me/bilord) (Telegram)
-* [@bilord](https://openland.com/bilord) (Openland)
 * Igorbukshev#1361 (Discord)
 
 <!--
