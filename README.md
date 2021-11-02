@@ -38,6 +38,7 @@
  * HTML5
  * CSS3
  * Styled-components
+ * Socket.IO
  * Scrum/Agile
 
 ------------------------- 
