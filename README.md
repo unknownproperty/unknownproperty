@@ -27,19 +27,20 @@
 
 #### ⚡ My Tech Stack: 
 
- * JavaScript / Typescript (basic)
+ * JavaScript / Typescript 
  * Python (basic)
  * React (React Hooks)
- * Material-UI
+ * Material-UI (MUI)
  * Next JS
- * MobX (basic Redux)
+ * MobX, Redux 
  * Git, Github
- * English B2
  * HTML5
  * CSS3
  * Styled-components
- * Socket.IO
- * Scrum/Agile
+ * Socket.IO / WebSockets 
+ * Scrum / Agile
+ * English B2
+ * Framer motion 
 
 ------------------------- 
 #### I'm open to cooperation and always dont mind working on an interesting project
