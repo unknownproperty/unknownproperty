@@ -6,10 +6,6 @@
 
 ------------------------- 
 
-### ⚡⚡⚡ [My Web Site](https://igorbukshev.vercel.app/) ⚡⚡⚡
-
-------------------------- 
-
 #### 🔭 I'm currently working on an education startup. [Ξffect](https://xieffect.ru/) It's like courses, but with features for school and university and other cool things 
 
 ------------------------- 
@@ -33,14 +29,17 @@
  * Material-UI (MUI)
  * Next JS
  * MobX, Redux 
- * Git, Github
+ * Git, Github, Gitlab
+ * Docker
  * HTML5
  * CSS3
  * Styled-components
  * Socket.IO / WebSockets 
- * Scrum / Agile
+ * Scrum / Agile / Kanban
  * English B2
  * Framer motion 
+ * Pug
+ * Dart & Flutter
 
 ------------------------- 
 #### I'm open to cooperation and always dont mind working on an interesting project
