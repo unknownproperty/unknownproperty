@@ -47,7 +47,7 @@
 
 #### 💬 You can find me here: 
 
-* [@bilord](https://t.me/bilord) (Telegram)
+* [@unknownproperty](https://t.me/unknownproperty) (Telegram)
 * Igorbukshev#1361 (Discord)
 
 <!--
