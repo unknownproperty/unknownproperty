@@ -1,8 +1,12 @@
-# 👋 Hi, traveler, my name is **Igor Bukshev** 
+# 👋 Hi, traveler, I'm **Igor Bukshev** 
 
 ## I'm ***Front-end developer*** from Saint-Petersburg
 
-### I've been writing code for over three years. I've been interested in Front-end for more than a year
+### I've been writing code for over 5 years. I've been interested in Frontend for more than a 2 years
+
+------------------------- 
+
+#### Now I'm here - [ati.su](https://ati.su/)
 
 ------------------------- 
 
