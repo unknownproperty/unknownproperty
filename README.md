@@ -6,14 +6,6 @@
 
 ------------------------- 
 
-#### Now I'm here - [ati.su](https://ati.su/)
-
-------------------------- 
-
-#### 🔭 I'm currently working on an education startup. [xi.ffect](https://xieffect.ru/) It's like courses, but with features for school and university and other cool things 
-
-------------------------- 
-
 #### 😄 My Projects: 
 
  * [xi.ffect](https://xieffect.ru/) (Education App)
