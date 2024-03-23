@@ -17,14 +17,20 @@
 
 ------------------------- 
 
-#### ⚡ My Tech Stack: 
+#### Favorite technologies:
 
- * JavaScript / Typescript 
+ * Typescript
+ * React&NextJS
+ * Tailwind
+ * Shadcn/ui
+ * MobX / Zustand 
+
+#### ⚡ Also worked with: 
+
+ * JavaScript
  * Python (basic)
- * React (React Hooks)
  * Material-UI (MUI)
- * Next JS
- * MobX, Redux 
+ * Redux
  * Git, Github, Gitlab
  * Docker
  * HTML5
@@ -32,8 +38,7 @@
  * Styled-components
  * Socket.IO / WebSockets 
  * Scrum / Agile / Kanban
- * English B2
- * Framer motion 
+ * Framer-motion 
  * Pug
  * Dart & Flutter
 
