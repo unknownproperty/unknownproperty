@@ -17,7 +17,7 @@
 
 ------------------------- 
 
-#### Favorite technologies:
+#### ❤️ Favorite technologies:
 
  * Typescript
  * React&NextJS
