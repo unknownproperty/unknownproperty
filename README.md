@@ -2,7 +2,7 @@
 
 ## I'm ***Front-end developer*** from Saint-Petersburg
 
-### I've been writing code for over 5 years. I've been interested in Frontend for more than a 3 years
+### I've been writing code for over 7 years. I've been interested in Frontend for more than a 4 years
 
 ------------------------- 
 
