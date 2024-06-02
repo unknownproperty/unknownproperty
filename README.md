@@ -6,13 +6,7 @@
 
 ------------------------- 
 
-#### 😄 My Projects: 
-
- * [xi.effect](https://xieffect.ru/) (Education App)
- * [SpaceX Launches](https://spacex-launches-with-pagination.vercel.app/) (Limitless pagination)
- * [Cards slider](https://jsfiddle.net/bilord/smd2vgny/3/) (Native JS)
- * [Simple Trello](https://jsfiddle.net/bilord/7eodjqt0/2/) (Drag&Drop)
- * [Crypto Exchange](https://cryptochange.vercel.app/) 
+#### 😄 Now Frontend Teamlead in [startup](https://github.com/xi-effect)
 
 
 ------------------------- 
