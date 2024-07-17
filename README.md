@@ -17,7 +17,8 @@
  * React&NextJS
  * Tailwind
  * Shadcn/ui
- * MobX / Zustand 
+ * MobX / Zustand
+ * React-hook-form
 
 #### ⚡ Also worked with: 
 
@@ -30,7 +31,8 @@
  * HTML5
  * CSS3
  * Styled-components
- * Socket.IO / WebSockets 
+ * Socket.IO / WebSockets
+ * Eslint / Prettier / Husky
  * Scrum / Agile / Kanban
  * Framer-motion 
  * Pug
