@@ -15,7 +15,7 @@
 
  * Typescript
  * React&NextJS
- * Tailwind
+ * TailwindCSS
  * Shadcn/ui
  * MobX / Zustand
  * React-hook-form
@@ -25,11 +25,11 @@
  * JavaScript
  * Python (basic)
  * Material-UI (MUI)
- * Redux
+ * Redux 
  * Git, Github, Gitlab
  * Docker
  * HTML5
- * CSS3
+ * CSS3 / SCSS / Css-modules
  * Styled-components
  * Socket.IO / WebSockets
  * Eslint / Prettier / Husky
