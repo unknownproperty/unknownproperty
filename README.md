@@ -6,11 +6,6 @@
 
 ------------------------- 
 
-#### 😄 Now Frontend Teamlead in [startup](https://github.com/xi-effect)
-
-
-------------------------- 
-
 #### ❤️ Favorite technologies:
 
  * Typescript
