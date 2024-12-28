@@ -9,11 +9,12 @@
 #### ❤️ Favorite technologies:
 
  * Typescript
- * React&NextJS
+ * React & NextJS
  * TailwindCSS
  * Shadcn/ui
  * MobX / Zustand
- * React-hook-form
+ * React-hook-form & zod
+ * @tanstack/react-query / swr
 
 #### ⚡ Also worked with: 
 
@@ -32,6 +33,8 @@
  * Framer-motion 
  * Pug
  * Dart & Flutter
+ * Webpack / Vite
+ * ChatGPT
 
 ------------------------- 
 #### I'm open to cooperation and always dont mind working on an interesting project
