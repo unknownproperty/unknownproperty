@@ -2,7 +2,7 @@
 
 ## I'm ***Front-end developer*** from Saint-Petersburg
 
-### I've been writing code for over 7 years. I've been interested in Frontend for more than a 4 years
+### I've been writing code for over 9 years. I've been interested in Frontend for more than a 5 years
 
 ------------------------- 
 
@@ -44,16 +44,3 @@
 
 * [@unknownproperty](https://t.me/unknownproperty) (Telegram)
 * Igorbukshev#1361 (Discord)
-
-<!--
-**bilordigor/bilordigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
