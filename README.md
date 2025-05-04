@@ -34,7 +34,7 @@
  * Pug
  * Dart & Flutter
  * Webpack / Vite
- * ChatGPT
+ * ChatGPT / Cursor
 
 ------------------------- 
 #### I'm open to cooperation and always dont mind working on an interesting project
